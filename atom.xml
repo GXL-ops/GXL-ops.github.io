@@ -6,7 +6,7 @@
   <link href="https://xinleguo.github.io/atom.xml" rel="self"/>
   
   <link href="https://xinleguo.github.io/"/>
-  <updated>2022-03-27T13:53:31.323Z</updated>
+  <updated>2022-03-27T14:10:13.601Z</updated>
   <id>https://xinleguo.github.io/</id>
   
   <author>
@@ -17,128 +17,52 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://xinleguo.github.io/2022/03/27/zui-duan-lu-suan-fa-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/03/27/zui-duan-lu-suan-fa-mo-ban/</id>
-    <published>2022-03-27T13:53:30.676Z</published>
-    <updated>2022-03-27T13:53:31.323Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;最短路算法模板&quot;&gt;&lt;a href=&quot;#最短路算法模板&quot; class=&quot;headerlink&quot; title=&quot;最短路算法模板&quot;&gt;&lt;/a&gt;最短路算法模板&lt;/h2&gt;&lt;p&gt;我们只需考虑有向图上的算法，因为无向图是特殊的有向图。我们可以将所有无向边 &lt;code&gt;u</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://xinleguo.github.io/2022/03/27/shuang-zhi-zhen-fa/"/>
-    <id>https://xinleguo.github.io/2022/03/27/shuang-zhi-zhen-fa/</id>
-    <published>2022-03-27T13:53:30.671Z</published>
-    <updated>2022-03-27T13:53:31.326Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;双指针法&quot;&gt;&lt;a href=&quot;#双指针法&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://xinleguo.github.io/2022/03/27/shu-lun-wen-ti-suan-fa-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/03/27/shu-lun-wen-ti-suan-fa-mo-ban/</id>
-    <published>2022-03-27T13:53:30.668Z</published>
-    <updated>2022-03-27T13:53:31.322Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;数论问题算法模板&quot;&gt;&lt;a href=&quot;#数论问题算法模板&quot; class=&quot;headerlink&quot; title=&quot;数论问题算法模板&quot;&gt;&lt;/a&gt;数论问题算法模板&lt;/h2&gt;&lt;h3 id=&quot;1-欧几里得算法&quot;&gt;&lt;a href=&quot;#1-欧几里得算法&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://xinleguo.github.io/2022/03/27/quan-pai-lie/"/>
-    <id>https://xinleguo.github.io/2022/03/27/quan-pai-lie/</id>
-    <published>2022-03-27T13:53:30.663Z</published>
-    <updated>2022-03-27T13:53:31.319Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;使用交换元素的方式进行全排列&quot;&gt;&lt;a href=&quot;#使用交换元素的方式进行全排列&quot; class=&quot;headerlink&quot; title=&quot;使用交换元素的方式进行全排列&quot;&gt;&lt;/a&gt;使用交换元素的方式进行全排列&lt;/h2&gt;&lt;h4 id=&quot;46-全排列&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://xinleguo.github.io/2022/03/27/qiu-jie-fei-bo-na-qi-shu-lie-de-ruo-gan-fang-fa/"/>
-    <id>https://xinleguo.github.io/2022/03/27/qiu-jie-fei-bo-na-qi-shu-lie-de-ruo-gan-fang-fa/</id>
-    <published>2022-03-27T13:53:30.659Z</published>
-    <updated>2022-03-27T13:53:31.312Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;求解斐波那契数列的若干方法&quot;&gt;&lt;a href=&quot;#求解斐波那契数列的若干方法&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
+    <title>最小生成树算法模板</title>
     <link href="https://xinleguo.github.io/2022/03/27/zui-xiao-sheng-cheng-shu-suan-fa-mo-ban/"/>
     <id>https://xinleguo.github.io/2022/03/27/zui-xiao-sheng-cheng-shu-suan-fa-mo-ban/</id>
-    <published>2022-03-27T13:53:30.622Z</published>
-    <updated>2022-03-27T13:53:31.306Z</updated>
+    <published>2022-03-27T07:04:25.000Z</published>
+    <updated>2022-03-27T14:10:13.601Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;最小生成树算法模板&quot;&gt;&lt;a href=&quot;#最小生成树算法模板&quot; class=&quot;headerlink&quot; title=&quot;最小生成树算法模板&quot;&gt;&lt;/a&gt;最小生成树算法模板&lt;/h2&gt;&lt;p&gt;假设 &lt;code&gt;n&lt;/code&gt; 表示图中点数，&lt;code&gt;m&lt;/code&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;最小生成树算法模板&quot;&gt;&lt;a href=&quot;#最小生成树算法模板&quot; class=&quot;headerlink&quot; title=&quot;最小生成树算法模板&quot;&gt;&lt;/a&gt;最小生成树算法模板&lt;/h1&gt;&lt;p&gt;假设 &lt;code&gt;n&lt;/code&gt; 表示图中点数，&lt;code&gt;m&lt;/code&gt;</summary>
         
       
     
     
     
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/tags/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最短路算法模板</title>
+    <link href="https://xinleguo.github.io/2022/03/27/zui-duan-lu-suan-fa-mo-ban/"/>
+    <id>https://xinleguo.github.io/2022/03/27/zui-duan-lu-suan-fa-mo-ban/</id>
+    <published>2022-03-27T06:04:25.000Z</published>
+    <updated>2022-03-27T14:10:25.057Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;最短路算法模板&quot;&gt;&lt;a href=&quot;#最短路算法模板&quot; class=&quot;headerlink&quot; title=&quot;最短路算法模板&quot;&gt;&lt;/a&gt;最短路算法模板&lt;/h1&gt;&lt;p&gt;我们只需考虑有向图上的算法，因为无向图是特殊的有向图。我们可以将所有无向边 &lt;code&gt;u</summary>
+        
+      
+    
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/tags/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
@@ -147,14 +71,14 @@
     <link href="https://xinleguo.github.io/2022/03/26/kuai-su-cheng-fa-mo-ban/"/>
     <id>https://xinleguo.github.io/2022/03/26/kuai-su-cheng-fa-mo-ban/</id>
     <published>2022-03-26T15:04:25.000Z</published>
-    <updated>2022-03-27T14:01:02.442Z</updated>
+    <updated>2022-03-27T14:14:22.296Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;快速乘法模板&quot;&gt;&lt;a href=&quot;#快速乘法模板&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;快速乘法模板&quot;&gt;&lt;a href=&quot;#快速乘法模板&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -174,14 +98,14 @@
     <link href="https://xinleguo.github.io/2022/03/26/kuai-su-mi-suan-fa-mo-ban/"/>
     <id>https://xinleguo.github.io/2022/03/26/kuai-su-mi-suan-fa-mo-ban/</id>
     <published>2022-03-26T14:04:25.000Z</published>
-    <updated>2022-03-27T14:01:16.063Z</updated>
+    <updated>2022-03-27T14:13:49.281Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;快速幂算法模板&quot;&gt;&lt;a href=&quot;#快速幂算法模板&quot; class=&quot;headerlink&quot; title=&quot;快速幂算法模板&quot;&gt;&lt;/a&gt;快速幂算法模板&lt;/h2&gt;&lt;p&gt;求 &lt;code&gt;m^k%p&lt;/code&gt;，时间复杂度</summary>
+    <summary type="html">&lt;h1 id=&quot;快速幂算法模板&quot;&gt;&lt;a href=&quot;#快速幂算法模板&quot; class=&quot;headerlink&quot; title=&quot;快速幂算法模板&quot;&gt;&lt;/a&gt;快速幂算法模板&lt;/h1&gt;&lt;p&gt;求 &lt;code&gt;m^k%p&lt;/code&gt;，时间复杂度</summary>
         
       
     
@@ -201,15 +125,15 @@
     <link href="https://xinleguo.github.io/2022/03/26/ma-la-che-suan-fa-mo-ban-ti/"/>
     <id>https://xinleguo.github.io/2022/03/26/ma-la-che-suan-fa-mo-ban-ti/</id>
     <published>2022-03-26T13:04:25.000Z</published>
-    <updated>2022-03-27T14:01:53.774Z</updated>
+    <updated>2022-03-27T14:13:43.164Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;马拉车算法&quot;&gt;&lt;a href=&quot;#马拉车算法&quot; class=&quot;headerlink&quot; title=&quot;马拉车算法&quot;&gt;&lt;/a&gt;马拉车算法&lt;/h2&gt;&lt;p&gt;解决求最长回文串，时间复杂度为&lt;code&gt;O(n)&lt;/code&gt;&lt;/p&gt;
-&lt;h3</summary>
+    <summary type="html">&lt;h1 id=&quot;马拉车算法&quot;&gt;&lt;a href=&quot;#马拉车算法&quot; class=&quot;headerlink&quot; title=&quot;马拉车算法&quot;&gt;&lt;/a&gt;马拉车算法&lt;/h1&gt;&lt;p&gt;解决求最长回文串，时间复杂度为&lt;code&gt;O(n)&lt;/code&gt;&lt;/p&gt;
+&lt;h2</summary>
         
       
     
@@ -229,14 +153,139 @@
     <link href="https://xinleguo.github.io/2022/03/26/pai-xu-suan-fa-mo-ban/"/>
     <id>https://xinleguo.github.io/2022/03/26/pai-xu-suan-fa-mo-ban/</id>
     <published>2022-03-26T12:04:25.000Z</published>
-    <updated>2022-03-27T14:04:09.703Z</updated>
+    <updated>2022-03-27T14:13:14.871Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;算法基础相关代码模板&quot;&gt;&lt;a href=&quot;#算法基础相关代码模板&quot; class=&quot;headerlink&quot; title=&quot;算法基础相关代码模板&quot;&gt;&lt;/a&gt;&lt;a</summary>
+    <summary type="html">&lt;h1 id=&quot;算法基础相关代码模板&quot;&gt;&lt;a href=&quot;#算法基础相关代码模板&quot; class=&quot;headerlink&quot; title=&quot;算法基础相关代码模板&quot;&gt;&lt;/a&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/tags/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>偏移量技巧</title>
+    <link href="https://xinleguo.github.io/2022/03/26/pian-yi-liang-ji-qiao/"/>
+    <id>https://xinleguo.github.io/2022/03/26/pian-yi-liang-ji-qiao/</id>
+    <published>2022-03-26T11:04:25.000Z</published>
+    <updated>2022-03-27T14:12:27.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;偏移量技巧&quot;&gt;&lt;a href=&quot;#偏移量技巧&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/tags/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全排列实现(交换元素的方式)</title>
+    <link href="https://xinleguo.github.io/2022/03/26/quan-pai-lie/"/>
+    <id>https://xinleguo.github.io/2022/03/26/quan-pai-lie/</id>
+    <published>2022-03-26T10:04:25.000Z</published>
+    <updated>2022-03-27T14:11:39.595Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;交换元素的方式进行全排列&quot;&gt;&lt;a href=&quot;#交换元素的方式进行全排列&quot; class=&quot;headerlink&quot; title=&quot;交换元素的方式进行全排列&quot;&gt;&lt;/a&gt;交换元素的方式进行全排列&lt;/h1&gt;&lt;h2 id=&quot;46-全排列&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/tags/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>求解斐波那契数列的若干方法</title>
+    <link href="https://xinleguo.github.io/2022/03/26/qiu-jie-fei-bo-na-qi-shu-lie-de-ruo-gan-fang-fa/"/>
+    <id>https://xinleguo.github.io/2022/03/26/qiu-jie-fei-bo-na-qi-shu-lie-de-ruo-gan-fang-fa/</id>
+    <published>2022-03-26T10:04:25.000Z</published>
+    <updated>2022-03-27T14:12:06.486Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;求解斐波那契数列的若干方法&quot;&gt;&lt;a href=&quot;#求解斐波那契数列的若干方法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/tags/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数论问题模板</title>
+    <link href="https://xinleguo.github.io/2022/03/26/shu-lun-wen-ti-suan-fa-mo-ban/"/>
+    <id>https://xinleguo.github.io/2022/03/26/shu-lun-wen-ti-suan-fa-mo-ban/</id>
+    <published>2022-03-26T07:04:25.000Z</published>
+    <updated>2022-03-27T14:11:29.005Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;数论问题算法模板&quot;&gt;&lt;a href=&quot;#数论问题算法模板&quot; class=&quot;headerlink&quot; title=&quot;数论问题算法模板&quot;&gt;&lt;/a&gt;数论问题算法模板&lt;/h1&gt;&lt;h2 id=&quot;1-欧几里得算法&quot;&gt;&lt;a href=&quot;#1-欧几里得算法&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="刷题算法模板" scheme="https://xinleguo.github.io/tags/%E5%88%B7%E9%A2%98%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>双指针法解题模板</title>
+    <link href="https://xinleguo.github.io/2022/03/26/shuang-zhi-zhen-fa/"/>
+    <id>https://xinleguo.github.io/2022/03/26/shuang-zhi-zhen-fa/</id>
+    <published>2022-03-26T06:04:25.000Z</published>
+    <updated>2022-03-27T14:10:45.596Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;双指针法解题模板&quot;&gt;&lt;a href=&quot;#双指针法解题模板&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -254,7 +303,7 @@
     <link href="https://xinleguo.github.io/2022/03/25/fan-zhuan-guan-lian-wen-ti/"/>
     <id>https://xinleguo.github.io/2022/03/25/fan-zhuan-guan-lian-wen-ti/</id>
     <published>2022-03-25T15:04:25.000Z</published>
-    <updated>2022-03-27T13:59:32.692Z</updated>
+    <updated>2022-03-27T14:14:55.160Z</updated>
     
     
     <summary type="html">针对翻转关联问题做出指导思路，给出模板</summary>
@@ -275,7 +324,7 @@
     <link href="https://xinleguo.github.io/2022/03/25/er-fen-cha-zhao-mo-ban/"/>
     <id>https://xinleguo.github.io/2022/03/25/er-fen-cha-zhao-mo-ban/</id>
     <published>2022-03-25T14:04:25.000Z</published>
-    <updated>2022-03-27T13:59:04.137Z</updated>
+    <updated>2022-03-27T14:16:53.076Z</updated>
     
     
     <summary type="html">二分查找的模板，适用于各种二分查找</summary>
