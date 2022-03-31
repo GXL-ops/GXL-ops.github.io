@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>剑指_Offer</title>
+      <link href="/2022/03/31/leetcode/jian-zhi-offer/jian-zhi-offer-03/"/>
+      <url>/2022/03/31/leetcode/jian-zhi-offer/jian-zhi-offer-03/</url>
+      
+        <content type="html"><![CDATA[<h1 id="剑指-Offer"><a href="#剑指-Offer" class="headerlink" title="剑指 Offer"></a>剑指 Offer</h1><h2 id="剑指-Offer-03"><a href="#剑指-Offer-03" class="headerlink" title="剑指 Offer 03"></a>剑指 Offer 03</h2><blockquote><p>寻找重复数字</p></blockquote><p>找出数组中重复的数字。</p><p>在一个长度为 n 的数组 nums 里的所有数字都在 0～n-1 的范围内。数组中某些数字是重复的，但不知道有几个数字重复了，也不知道每个数字重复了几次。请找出数组中任意一个重复的数字。</p><p><strong>示例 1：</strong></p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">输入：</span><br><span class="line">[2, 3, 1, 0, 2, 5, 3]</span><br><span class="line">输出：2 或 3 </span><br></pre></td></tr></tbody></table></figure><p><strong>解题：</strong></p><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span>:</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">findRepeatNumber</span>(<span class="params">self, nums: <span class="type">List</span>[<span class="built_in">int</span>]</span>) -&gt; <span class="built_in">int</span>:</span><br><span class="line">        dic = <span class="built_in">set</span>()</span><br><span class="line">        <span class="keyword">for</span> i <span class="keyword">in</span> nums:</span><br><span class="line">            <span class="keyword">if</span> i <span class="keyword">in</span> dic:</span><br><span class="line">                <span class="keyword">return</span> i</span><br><span class="line">            dic.add(i)</span><br><span class="line">        <span class="keyword">return</span> -<span class="number">1</span></span><br></pre></td></tr></tbody></table></figure><h2 id="剑指-Offer-04"><a href="#剑指-Offer-04" class="headerlink" title="剑指 Offer 04"></a>剑指 Offer 04</h2><blockquote><p>二维数组中的查找</p></blockquote><p>在一个 n * m 的二维数组中，每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个高效的函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。</p><p><strong>示例:</strong></p><p>现有矩阵 matrix 如下：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">[</span><br><span class="line">  [1,   4,  7, 11, 15],</span><br><span class="line">  [2,   5,  8, 12, 19],</span><br><span class="line">  [3,   6,  9, 16, 22],</span><br><span class="line">  [10, 13, 14, 17, 24],</span><br><span class="line">  [18, 21, 23, 26, 30]</span><br><span class="line">]</span><br><span class="line">给定 target = 5，返回 true。</span><br><span class="line"></span><br><span class="line">给定 target = 20，返回 false。</span><br></pre></td></tr></tbody></table></figure><p><strong>解题思路：</strong></p><p>方案一：使用暴力的方法，逐元素便利，寻找是否存在；</p><p>方案二：线性查找的方式，因为数组中元素每行从左到右递增以及每列从上到下递增的特点，所以考虑从左上角开始遍历，并不能很方便的进行遍历。但是从左下角开始便利，当当前元素 &gt; target 时，向上移动，当当前元素 &lt; target时，向右移动。</p><p><img src="http://r9b9hav76.hn-bkt.clouddn.com/1.png" alt="1"></p><p><img src="http://r9b9hav76.hn-bkt.clouddn.com//2.png" alt="2"></p><p><strong>题解：</strong></p><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span>:</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">findNumberIn2DArray</span>(<span class="params">self, matrix: <span class="type">List</span>[<span class="type">List</span>[<span class="built_in">int</span>]], target: <span class="built_in">int</span></span>) -&gt; <span class="built_in">bool</span>:</span><br><span class="line">        <span class="keyword">if</span> matrix <span class="keyword">is</span> <span class="literal">None</span> <span class="keyword">or</span> <span class="built_in">len</span>(matrix) == <span class="number">0</span> <span class="keyword">or</span> <span class="built_in">len</span>(matrix[<span class="number">0</span>]) == <span class="number">0</span>:</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">False</span></span><br><span class="line">        i, j = <span class="built_in">len</span>(matrix) - <span class="number">1</span>, <span class="number">0</span></span><br><span class="line">        <span class="keyword">while</span> i &gt;= <span class="number">0</span> <span class="keyword">and</span> j &lt; <span class="built_in">len</span>(matrix[<span class="number">0</span>]):</span><br><span class="line">            <span class="keyword">if</span> matrix[i][j] &gt; target:</span><br><span class="line">                i -= <span class="number">1</span></span><br><span class="line">            <span class="keyword">elif</span> matrix[i][j] &lt; target:</span><br><span class="line">                j += <span class="number">1</span></span><br><span class="line">            <span class="keyword">else</span>:</span><br><span class="line">                <span class="keyword">return</span> <span class="literal">True</span></span><br><span class="line">        <span class="keyword">return</span> <span class="literal">False</span></span><br></pre></td></tr></tbody></table></figure><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> LeetCode </category>
+          
+          <category> 剑指Offer </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LeetCode </tag>
+            
+            <tag> 剑指Offer </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>LeetCode728</title>
+      <link href="/2022/03/31/leetcode/leetcode728/"/>
+      <url>/2022/03/31/leetcode/leetcode728/</url>
+      
+        <content type="html"><![CDATA[<h1 id="728-自除数"><a href="#728-自除数" class="headerlink" title="728. 自除数"></a>728. 自除数</h1><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p>自除数 是指可以被它包含的每一位数整除的数。</p><p>例如，128 是一个 自除数 ，因为 128 % 1 == 0，128 % 2 == 0，128 % 8 == 0。<br>自除数 不允许包含 0 。</p><p>给定两个整数 left 和 right ，返回一个列表，列表的元素是范围 [left, right] 内所有的 自除数 。</p><p>示例 1：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">输入：left = 1, right = 22</span><br><span class="line">输出：[1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 22]</span><br></pre></td></tr></tbody></table></figure><p>示例 2:</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">输入：left = 47, right = 85</span><br><span class="line">输出：[48,55,66,77]</span><br></pre></td></tr></tbody></table></figure><h2 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h2><h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> typing <span class="keyword">import</span> <span class="type">List</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span>:</span><br><span class="line">    <span class="keyword">def</span> <span class="title function_">selfDividingNumbers</span>(<span class="params">self, left: <span class="built_in">int</span>, right: <span class="built_in">int</span></span>) -&gt; <span class="type">List</span>[<span class="built_in">int</span>]:</span><br><span class="line">        <span class="keyword">def</span> <span class="title function_">isSelfDividing</span>(<span class="params">num: <span class="built_in">int</span></span>) -&gt; <span class="built_in">bool</span>:</span><br><span class="line">            x = num</span><br><span class="line">            <span class="keyword">while</span> x:</span><br><span class="line">                x, d = <span class="built_in">divmod</span>(x, <span class="number">10</span>)</span><br><span class="line">                <span class="keyword">if</span> d == <span class="number">0</span> <span class="keyword">or</span> num % d:</span><br><span class="line">                    <span class="keyword">return</span> <span class="literal">False</span></span><br><span class="line">            <span class="keyword">return</span> <span class="literal">True</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">return</span> [i <span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(left, right + <span class="number">1</span>) <span class="keyword">if</span> isSelfDividing(i)]</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> __name__ == <span class="string">'__main__'</span>:</span><br><span class="line">    sol = Solution()</span><br><span class="line">    res = sol.selfDividingNumbers(<span class="number">47</span>, <span class="number">85</span>)</span><br><span class="line">    <span class="built_in">print</span>(res)</span><br></pre></td></tr></tbody></table></figure><h3 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h3><figure class="highlight java"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> {</span><br><span class="line">    <span class="keyword">public</span> List&lt;Integer&gt; <span class="title function_">selfDividingNumbers</span><span class="params">(<span class="type">int</span> left, <span class="type">int</span> right)</span> {</span><br><span class="line">        List&lt;Integer&gt; ans = <span class="keyword">new</span> <span class="title class_">ArrayList</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span>(<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> left; i &lt;= right; i++){</span><br><span class="line">            <span class="keyword">if</span>(isSelfDividing(i))</span><br><span class="line">                ans.add(i);</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    }</span><br><span class="line"></span><br><span class="line">    <span class="keyword">public</span> Boolean <span class="title function_">isSelfDividing</span><span class="params">(<span class="type">int</span> num)</span> {</span><br><span class="line">        <span class="type">int</span> <span class="variable">x</span> <span class="operator">=</span> num;</span><br><span class="line">        <span class="keyword">while</span>(x != <span class="number">0</span>){</span><br><span class="line">            <span class="type">int</span> <span class="variable">d</span> <span class="operator">=</span> x % <span class="number">10</span>;</span><br><span class="line">            x = x / <span class="number">10</span>;</span><br><span class="line">            <span class="keyword">if</span>(d == <span class="number">0</span> || num % d !=<span class="number">0</span>)</span><br><span class="line">                <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        }</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">    }</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> LeetCode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> LeetCode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关联规则算法</title>
       <link href="/2022/03/30/machine-learning/guan-lian-gui-ze-suan-fa/"/>
       <url>/2022/03/30/machine-learning/guan-lian-gui-ze-suan-fa/</url>
@@ -102,7 +156,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -127,7 +183,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -152,7 +210,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -179,7 +239,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -206,7 +268,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -233,7 +297,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -258,7 +324,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -283,7 +351,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -308,7 +378,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -333,7 +405,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -358,7 +432,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -383,7 +459,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
@@ -410,7 +488,9 @@
       
       <categories>
           
-          <category> 刷题算法模板 </category>
+          <category> 刷题 </category>
+          
+          <category> 算法模板 </category>
           
       </categories>
       
