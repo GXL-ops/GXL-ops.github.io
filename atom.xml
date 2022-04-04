@@ -6,7 +6,7 @@
   <link href="https://xinleguo.github.io/atom.xml" rel="self"/>
   
   <link href="https://xinleguo.github.io/"/>
-  <updated>2022-04-02T15:16:58.341Z</updated>
+  <updated>2022-04-04T16:20:37.212Z</updated>
   <id>https://xinleguo.github.io/</id>
   
   <author>
@@ -15,6 +15,79 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LeetCode307</title>
+    <link href="https://xinleguo.github.io/2022/04/04/leetcode/leetcode307/"/>
+    <id>https://xinleguo.github.io/2022/04/04/leetcode/leetcode307/</id>
+    <published>2022-04-04T15:06:12.000Z</published>
+    <updated>2022-04-04T16:20:37.212Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/04/04) 307. 区域和检索 - 数组可修改</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    
+    <category term="难度-中等" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    
+    
+    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    
+    <category term="区域检索" scheme="https://xinleguo.github.io/tags/%E5%8C%BA%E5%9F%9F%E6%A3%80%E7%B4%A2/"/>
+    
+    <category term="分块处理" scheme="https://xinleguo.github.io/tags/%E5%88%86%E5%9D%97%E5%A4%84%E7%90%86/"/>
+    
+    <category term="线段树" scheme="https://xinleguo.github.io/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+    <category term="树状数组" scheme="https://xinleguo.github.io/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面试题</title>
+    <link href="https://xinleguo.github.io/2022/04/03/leetcode/mian-shi-ti/"/>
+    <id>https://xinleguo.github.io/2022/04/03/leetcode/mian-shi-ti/</id>
+    <published>2022-04-03T07:14:59.000Z</published>
+    <updated>2022-04-03T07:21:25.723Z</updated>
+    
+    
+    <summary type="html">LeetCode 面试题</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    
+    <category term="面试题" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    
+    <category term="面试题" scheme="https://xinleguo.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode744</title>
+    <link href="https://xinleguo.github.io/2022/04/03/leetcode/leetcode744/"/>
+    <id>https://xinleguo.github.io/2022/04/03/leetcode/leetcode744/</id>
+    <published>2022-04-03T06:01:59.000Z</published>
+    <updated>2022-04-03T07:12:18.485Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/04/01) 744. 寻找比目标字母大的最小字母</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    
+    <category term="难度-简单" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
+    
+    
+    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    
+  </entry>
   
   <entry>
     <title>LeetCode420</title>
@@ -390,73 +463,6 @@
     
     
     <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>双指针法解题模板</title>
-    <link href="https://xinleguo.github.io/2022/03/26/basic-algorithm-template/shuang-zhi-zhen-fa/"/>
-    <id>https://xinleguo.github.io/2022/03/26/basic-algorithm-template/shuang-zhi-zhen-fa/</id>
-    <published>2022-03-26T06:04:25.000Z</published>
-    <updated>2022-03-30T16:20:53.374Z</updated>
-    
-    
-    <summary type="html">双指针法解题</summary>
-    
-    
-    
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
-    
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
-    
-    
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>翻转关联问题</title>
-    <link href="https://xinleguo.github.io/2022/03/25/basic-algorithm-template/fan-zhuan-guan-lian-wen-ti/"/>
-    <id>https://xinleguo.github.io/2022/03/25/basic-algorithm-template/fan-zhuan-guan-lian-wen-ti/</id>
-    <published>2022-03-25T15:04:25.000Z</published>
-    <updated>2022-03-30T16:20:27.951Z</updated>
-    
-    
-    <summary type="html">针对翻转关联问题做出指导思路，给出模板</summary>
-    
-    
-    
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
-    
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
-    
-    
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
-    
-    <category term="翻转" scheme="https://xinleguo.github.io/tags/%E7%BF%BB%E8%BD%AC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二分查找模板</title>
-    <link href="https://xinleguo.github.io/2022/03/25/basic-algorithm-template/er-fen-cha-zhao-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/03/25/basic-algorithm-template/er-fen-cha-zhao-mo-ban/</id>
-    <published>2022-03-25T14:04:25.000Z</published>
-    <updated>2022-03-30T16:20:19.365Z</updated>
-    
-    
-    <summary type="html">二分查找的模板，适用于各种二分查找</summary>
-    
-    
-    
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
-    
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
-    
-    
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
-    
-    <category term="二分查找" scheme="https://xinleguo.github.io/tags/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/"/>
     
   </entry>
   
