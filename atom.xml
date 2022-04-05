@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>曼曼吖の博客</title>
-  <icon>https://xinleguo.github.io/icon.png</icon>
+  <icon>https://xiaomanzhan.club/icon.png</icon>
   <subtitle>大哥&amp;曼曼吖の个人基地</subtitle>
-  <link href="https://xinleguo.github.io/atom.xml" rel="self"/>
+  <link href="https://xiaomanzhan.club/atom.xml" rel="self"/>
   
-  <link href="https://xinleguo.github.io/"/>
-  <updated>2022-04-05T13:21:34.093Z</updated>
-  <id>https://xinleguo.github.io/</id>
+  <link href="https://xiaomanzhan.club/"/>
+  <updated>2022-04-05T13:21:59.496Z</updated>
+  <id>https://xiaomanzhan.club/</id>
   
   <author>
     <name>Xinle Guo</name>
@@ -18,29 +18,29 @@
   
   <entry>
     <title>LeetCode762</title>
-    <link href="https://xinleguo.github.io/2022/04/05/leetcode/leetcode762/"/>
-    <id>https://xinleguo.github.io/2022/04/05/leetcode/leetcode762/</id>
+    <link href="https://xiaomanzhan.club/2022/04/05/leetcode/leetcode762/"/>
+    <id>https://xiaomanzhan.club/2022/04/05/leetcode/leetcode762/</id>
     <published>2022-04-05T13:07:07.000Z</published>
-    <updated>2022-04-05T13:21:34.093Z</updated>
+    <updated>2022-04-05T13:21:59.496Z</updated>
     
     
     <summary type="html">每日一题(2022/04/01) 762. 二进制表示中质数个计算置位</summary>
     
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
-    <category term="难度-简单" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
+    <category term="难度-简单" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
   </entry>
   
   <entry>
     <title>树状数组模板</title>
-    <link href="https://xinleguo.github.io/2022/04/05/basic-algorithm-template/shu-zhuang-shu-zu-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/04/05/basic-algorithm-template/shu-zhuang-shu-zu-mo-ban/</id>
+    <link href="https://xiaomanzhan.club/2022/04/05/basic-algorithm-template/shu-zhuang-shu-zu-mo-ban/"/>
+    <id>https://xiaomanzhan.club/2022/04/05/basic-algorithm-template/shu-zhuang-shu-zu-mo-ban/</id>
     <published>2022-04-05T08:13:08.000Z</published>
     <updated>2022-04-05T09:28:24.016Z</updated>
     
@@ -49,19 +49,19 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode307</title>
-    <link href="https://xinleguo.github.io/2022/04/04/leetcode/leetcode307/"/>
-    <id>https://xinleguo.github.io/2022/04/04/leetcode/leetcode307/</id>
+    <link href="https://xiaomanzhan.club/2022/04/04/leetcode/leetcode307/"/>
+    <id>https://xiaomanzhan.club/2022/04/04/leetcode/leetcode307/</id>
     <published>2022-04-04T15:06:12.000Z</published>
     <updated>2022-04-05T13:10:11.752Z</updated>
     
@@ -70,27 +70,27 @@
     
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
-    <category term="难度-中等" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    <category term="难度-中等" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
-    <category term="区域检索" scheme="https://xinleguo.github.io/tags/%E5%8C%BA%E5%9F%9F%E6%A3%80%E7%B4%A2/"/>
+    <category term="区域检索" scheme="https://xiaomanzhan.club/tags/%E5%8C%BA%E5%9F%9F%E6%A3%80%E7%B4%A2/"/>
     
-    <category term="分块处理" scheme="https://xinleguo.github.io/tags/%E5%88%86%E5%9D%97%E5%A4%84%E7%90%86/"/>
+    <category term="分块处理" scheme="https://xiaomanzhan.club/tags/%E5%88%86%E5%9D%97%E5%A4%84%E7%90%86/"/>
     
-    <category term="线段树" scheme="https://xinleguo.github.io/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    <category term="线段树" scheme="https://xiaomanzhan.club/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
-    <category term="树状数组" scheme="https://xinleguo.github.io/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
+    <category term="树状数组" scheme="https://xiaomanzhan.club/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
   </entry>
   
   <entry>
     <title>面试题</title>
-    <link href="https://xinleguo.github.io/2022/04/03/leetcode/mian-shi-ti/"/>
-    <id>https://xinleguo.github.io/2022/04/03/leetcode/mian-shi-ti/</id>
+    <link href="https://xiaomanzhan.club/2022/04/03/leetcode/mian-shi-ti/"/>
+    <id>https://xiaomanzhan.club/2022/04/03/leetcode/mian-shi-ti/</id>
     <published>2022-04-03T07:14:59.000Z</published>
     <updated>2022-04-05T03:18:35.186Z</updated>
     
@@ -99,21 +99,21 @@
     
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
-    <category term="面试题" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <category term="面试题" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
-    <category term="面试题" scheme="https://xinleguo.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <category term="面试题" scheme="https://xiaomanzhan.club/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode744</title>
-    <link href="https://xinleguo.github.io/2022/04/03/leetcode/leetcode744/"/>
-    <id>https://xinleguo.github.io/2022/04/03/leetcode/leetcode744/</id>
+    <link href="https://xiaomanzhan.club/2022/04/03/leetcode/leetcode744/"/>
+    <id>https://xiaomanzhan.club/2022/04/03/leetcode/leetcode744/</id>
     <published>2022-04-03T06:01:59.000Z</published>
     <updated>2022-04-05T13:09:55.558Z</updated>
     
@@ -122,19 +122,19 @@
     
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
-    <category term="难度-简单" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
+    <category term="难度-简单" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode420</title>
-    <link href="https://xinleguo.github.io/2022/04/02/leetcode/leetcode420/"/>
-    <id>https://xinleguo.github.io/2022/04/02/leetcode/leetcode420/</id>
+    <link href="https://xiaomanzhan.club/2022/04/02/leetcode/leetcode420/"/>
+    <id>https://xiaomanzhan.club/2022/04/02/leetcode/leetcode420/</id>
     <published>2022-04-02T13:34:59.000Z</published>
     <updated>2022-04-05T13:10:04.746Z</updated>
     
@@ -143,19 +143,19 @@
     
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
-    <category term="难度-困难" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E5%9B%B0%E9%9A%BE/"/>
+    <category term="难度-困难" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E5%9B%B0%E9%9A%BE/"/>
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode954</title>
-    <link href="https://xinleguo.github.io/2022/04/01/leetcode/leetcode954/"/>
-    <id>https://xinleguo.github.io/2022/04/01/leetcode/leetcode954/</id>
+    <link href="https://xiaomanzhan.club/2022/04/01/leetcode/leetcode954/"/>
+    <id>https://xiaomanzhan.club/2022/04/01/leetcode/leetcode954/</id>
     <published>2022-04-01T13:12:54.000Z</published>
     <updated>2022-04-05T13:09:44.209Z</updated>
     
@@ -164,23 +164,23 @@
     
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
-    <category term="难度-中等" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    <category term="难度-中等" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
-    <category term="哈希表" scheme="https://xinleguo.github.io/tags/%E5%93%88%E5%B8%8C%E8%A1%A8/"/>
+    <category term="哈希表" scheme="https://xiaomanzhan.club/tags/%E5%93%88%E5%B8%8C%E8%A1%A8/"/>
     
-    <category term="排序" scheme="https://xinleguo.github.io/tags/%E6%8E%92%E5%BA%8F/"/>
+    <category term="排序" scheme="https://xiaomanzhan.club/tags/%E6%8E%92%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>剑指_Offer</title>
-    <link href="https://xinleguo.github.io/2022/03/31/leetcode/jian-zhi-offer/jian-zhi-offer/"/>
-    <id>https://xinleguo.github.io/2022/03/31/leetcode/jian-zhi-offer/jian-zhi-offer/</id>
+    <link href="https://xiaomanzhan.club/2022/03/31/leetcode/jian-zhi-offer/jian-zhi-offer/"/>
+    <id>https://xiaomanzhan.club/2022/03/31/leetcode/jian-zhi-offer/jian-zhi-offer/</id>
     <published>2022-03-31T14:22:02.000Z</published>
     <updated>2022-04-05T03:18:39.002Z</updated>
     
@@ -189,21 +189,21 @@
     
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
-    <category term="剑指Offer" scheme="https://xinleguo.github.io/categories/LeetCode/%E5%89%91%E6%8C%87Offer/"/>
+    <category term="剑指Offer" scheme="https://xiaomanzhan.club/categories/LeetCode/%E5%89%91%E6%8C%87Offer/"/>
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
-    <category term="剑指Offer" scheme="https://xinleguo.github.io/tags/%E5%89%91%E6%8C%87Offer/"/>
+    <category term="剑指Offer" scheme="https://xiaomanzhan.club/tags/%E5%89%91%E6%8C%87Offer/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode728</title>
-    <link href="https://xinleguo.github.io/2022/03/31/leetcode/leetcode728/"/>
-    <id>https://xinleguo.github.io/2022/03/31/leetcode/leetcode728/</id>
+    <link href="https://xiaomanzhan.club/2022/03/31/leetcode/leetcode728/"/>
+    <id>https://xiaomanzhan.club/2022/03/31/leetcode/leetcode728/</id>
     <published>2022-03-31T13:44:09.000Z</published>
     <updated>2022-04-05T13:10:00.600Z</updated>
     
@@ -212,19 +212,19 @@
     
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/categories/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
-    <category term="难度-简单" scheme="https://xinleguo.github.io/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
+    <category term="难度-简单" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
     
     
-    <category term="LeetCode" scheme="https://xinleguo.github.io/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
   </entry>
   
   <entry>
     <title>关联规则算法</title>
-    <link href="https://xinleguo.github.io/2022/03/30/machine-learning/guan-lian-gui-ze-suan-fa/"/>
-    <id>https://xinleguo.github.io/2022/03/30/machine-learning/guan-lian-gui-ze-suan-fa/</id>
+    <link href="https://xiaomanzhan.club/2022/03/30/machine-learning/guan-lian-gui-ze-suan-fa/"/>
+    <id>https://xiaomanzhan.club/2022/03/30/machine-learning/guan-lian-gui-ze-suan-fa/</id>
     <published>2022-03-30T15:55:25.000Z</published>
     <updated>2022-03-30T15:55:24.898Z</updated>
     
@@ -233,23 +233,23 @@
     
     
     
-    <category term="机器学习" scheme="https://xinleguo.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="推荐算法" scheme="https://xinleguo.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/"/>
+    <category term="推荐算法" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="机器学习" scheme="https://xinleguo.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="算法" scheme="https://xinleguo.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://xiaomanzhan.club/tags/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="推荐算法" scheme="https://xinleguo.github.io/tags/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/"/>
+    <category term="推荐算法" scheme="https://xiaomanzhan.club/tags/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>Apriori算法</title>
-    <link href="https://xinleguo.github.io/2022/03/30/machine-learning/apriori-suan-fa/"/>
-    <id>https://xinleguo.github.io/2022/03/30/machine-learning/apriori-suan-fa/</id>
+    <link href="https://xiaomanzhan.club/2022/03/30/machine-learning/apriori-suan-fa/"/>
+    <id>https://xiaomanzhan.club/2022/03/30/machine-learning/apriori-suan-fa/</id>
     <published>2022-03-30T15:50:25.000Z</published>
     <updated>2022-03-30T15:54:27.806Z</updated>
     
@@ -258,23 +258,23 @@
     
     
     
-    <category term="机器学习" scheme="https://xinleguo.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="推荐算法" scheme="https://xinleguo.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/"/>
+    <category term="推荐算法" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="机器学习" scheme="https://xinleguo.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="算法" scheme="https://xinleguo.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://xiaomanzhan.club/tags/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="推荐算法" scheme="https://xinleguo.github.io/tags/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/"/>
+    <category term="推荐算法" scheme="https://xiaomanzhan.club/tags/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>Docker学习</title>
-    <link href="https://xinleguo.github.io/2022/03/30/docker/"/>
-    <id>https://xinleguo.github.io/2022/03/30/docker/</id>
+    <link href="https://xiaomanzhan.club/2022/03/30/docker/"/>
+    <id>https://xiaomanzhan.club/2022/03/30/docker/</id>
     <published>2022-03-30T14:04:25.000Z</published>
     <updated>2022-04-05T04:10:26.507Z</updated>
     
@@ -283,19 +283,19 @@
     
     
     
-    <category term="Docker" scheme="https://xinleguo.github.io/categories/Docker/"/>
+    <category term="Docker" scheme="https://xiaomanzhan.club/categories/Docker/"/>
     
     
-    <category term="Docker" scheme="https://xinleguo.github.io/tags/Docker/"/>
+    <category term="Docker" scheme="https://xiaomanzhan.club/tags/Docker/"/>
     
-    <category term="集群" scheme="https://xinleguo.github.io/tags/%E9%9B%86%E7%BE%A4/"/>
+    <category term="集群" scheme="https://xiaomanzhan.club/tags/%E9%9B%86%E7%BE%A4/"/>
     
   </entry>
   
   <entry>
     <title>最小生成树算法模板</title>
-    <link href="https://xinleguo.github.io/2022/03/27/basic-algorithm-template/zui-xiao-sheng-cheng-shu-suan-fa-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/03/27/basic-algorithm-template/zui-xiao-sheng-cheng-shu-suan-fa-mo-ban/</id>
+    <link href="https://xiaomanzhan.club/2022/03/27/basic-algorithm-template/zui-xiao-sheng-cheng-shu-suan-fa-mo-ban/"/>
+    <id>https://xiaomanzhan.club/2022/03/27/basic-algorithm-template/zui-xiao-sheng-cheng-shu-suan-fa-mo-ban/</id>
     <published>2022-03-27T07:04:25.000Z</published>
     <updated>2022-03-30T16:21:03.266Z</updated>
     
@@ -304,19 +304,19 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
   <entry>
     <title>最短路径算法模板</title>
-    <link href="https://xinleguo.github.io/2022/03/27/basic-algorithm-template/zui-duan-lu-suan-fa-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/03/27/basic-algorithm-template/zui-duan-lu-suan-fa-mo-ban/</id>
+    <link href="https://xiaomanzhan.club/2022/03/27/basic-algorithm-template/zui-duan-lu-suan-fa-mo-ban/"/>
+    <id>https://xiaomanzhan.club/2022/03/27/basic-algorithm-template/zui-duan-lu-suan-fa-mo-ban/</id>
     <published>2022-03-27T06:04:25.000Z</published>
     <updated>2022-03-30T16:20:55.715Z</updated>
     
@@ -325,19 +325,19 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
   <entry>
     <title>快速乘法模板</title>
-    <link href="https://xinleguo.github.io/2022/03/26/basic-algorithm-template/kuai-su-cheng-fa-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/03/26/basic-algorithm-template/kuai-su-cheng-fa-mo-ban/</id>
+    <link href="https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/kuai-su-cheng-fa-mo-ban/"/>
+    <id>https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/kuai-su-cheng-fa-mo-ban/</id>
     <published>2022-03-26T15:04:25.000Z</published>
     <updated>2022-03-30T16:20:30.830Z</updated>
     
@@ -346,21 +346,21 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
-    <category term="快速乘法" scheme="https://xinleguo.github.io/tags/%E5%BF%AB%E9%80%9F%E4%B9%98%E6%B3%95/"/>
+    <category term="快速乘法" scheme="https://xiaomanzhan.club/tags/%E5%BF%AB%E9%80%9F%E4%B9%98%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>快速幂算法模板</title>
-    <link href="https://xinleguo.github.io/2022/03/26/basic-algorithm-template/kuai-su-mi-suan-fa-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/03/26/basic-algorithm-template/kuai-su-mi-suan-fa-mo-ban/</id>
+    <link href="https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/kuai-su-mi-suan-fa-mo-ban/"/>
+    <id>https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/kuai-su-mi-suan-fa-mo-ban/</id>
     <published>2022-03-26T14:04:25.000Z</published>
     <updated>2022-03-30T16:20:33.755Z</updated>
     
@@ -369,21 +369,21 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
-    <category term="幂算法" scheme="https://xinleguo.github.io/tags/%E5%B9%82%E7%AE%97%E6%B3%95/"/>
+    <category term="幂算法" scheme="https://xiaomanzhan.club/tags/%E5%B9%82%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>马拉车算法模板</title>
-    <link href="https://xinleguo.github.io/2022/03/26/basic-algorithm-template/ma-la-che-suan-fa-mo-ban-ti/"/>
-    <id>https://xinleguo.github.io/2022/03/26/basic-algorithm-template/ma-la-che-suan-fa-mo-ban-ti/</id>
+    <link href="https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/ma-la-che-suan-fa-mo-ban-ti/"/>
+    <id>https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/ma-la-che-suan-fa-mo-ban-ti/</id>
     <published>2022-03-26T13:04:25.000Z</published>
     <updated>2022-03-30T16:20:36.618Z</updated>
     
@@ -392,21 +392,21 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
-    <category term="马拉车" scheme="https://xinleguo.github.io/tags/%E9%A9%AC%E6%8B%89%E8%BD%A6/"/>
+    <category term="马拉车" scheme="https://xiaomanzhan.club/tags/%E9%A9%AC%E6%8B%89%E8%BD%A6/"/>
     
   </entry>
   
   <entry>
     <title>基础算法模板集合</title>
-    <link href="https://xinleguo.github.io/2022/03/26/basic-algorithm-template/pai-xu-suan-fa-mo-ban/"/>
-    <id>https://xinleguo.github.io/2022/03/26/basic-algorithm-template/pai-xu-suan-fa-mo-ban/</id>
+    <link href="https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/pai-xu-suan-fa-mo-ban/"/>
+    <id>https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/pai-xu-suan-fa-mo-ban/</id>
     <published>2022-03-26T12:04:25.000Z</published>
     <updated>2022-03-30T16:20:39.997Z</updated>
     
@@ -415,19 +415,19 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
   <entry>
     <title>偏移量技巧</title>
-    <link href="https://xinleguo.github.io/2022/03/26/basic-algorithm-template/pian-yi-liang-ji-qiao/"/>
-    <id>https://xinleguo.github.io/2022/03/26/basic-algorithm-template/pian-yi-liang-ji-qiao/</id>
+    <link href="https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/pian-yi-liang-ji-qiao/"/>
+    <id>https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/pian-yi-liang-ji-qiao/</id>
     <published>2022-03-26T11:04:25.000Z</published>
     <updated>2022-03-30T16:20:42.535Z</updated>
     
@@ -436,19 +436,19 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
   <entry>
     <title>全排列实现</title>
-    <link href="https://xinleguo.github.io/2022/03/26/basic-algorithm-template/quan-pai-lie/"/>
-    <id>https://xinleguo.github.io/2022/03/26/basic-algorithm-template/quan-pai-lie/</id>
+    <link href="https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/quan-pai-lie/"/>
+    <id>https://xiaomanzhan.club/2022/03/26/basic-algorithm-template/quan-pai-lie/</id>
     <published>2022-03-26T10:04:25.000Z</published>
     <updated>2022-03-30T16:20:48.199Z</updated>
     
@@ -457,12 +457,12 @@
     
     
     
-    <category term="刷题" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/"/>
+    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
     
-    <category term="算法模板" scheme="https://xinleguo.github.io/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
     
-    <category term="基础算法模板" scheme="https://xinleguo.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
+    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
