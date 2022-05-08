@@ -6,7 +6,7 @@
   <link href="https://xiaomanzhan.club/atom.xml" rel="self"/>
   
   <link href="https://xiaomanzhan.club/"/>
-  <updated>2022-04-24T15:46:21.982Z</updated>
+  <updated>2022-05-08T15:06:59.044Z</updated>
   <id>https://xiaomanzhan.club/</id>
   
   <author>
@@ -17,171 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>LeetCode868</title>
-    <link href="https://xiaomanzhan.club/2022/04/24/leetcode/mei-ri-yi-ti/leetcode868/"/>
-    <id>https://xiaomanzhan.club/2022/04/24/leetcode/mei-ri-yi-ti/leetcode868/</id>
-    <published>2022-04-24T15:31:17.000Z</published>
-    <updated>2022-04-24T15:46:21.982Z</updated>
+    <title>LeetCode442</title>
+    <link href="https://xiaomanzhan.club/2022/05/08/leetcode/mei-ri-yi-ti/leetcode442/"/>
+    <id>https://xiaomanzhan.club/2022/05/08/leetcode/mei-ri-yi-ti/leetcode442/</id>
+    <published>2022-05-08T10:04:51.000Z</published>
+    <updated>2022-05-08T15:06:59.044Z</updated>
     
     
-    <summary type="html">每日一题(2022/04/24) 868. 二进制间距</summary>
+    <summary type="html">每日一题(2022/05/08) 442. 数组中重复的数据</summary>
     
     
     
     <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
     
+    <category term="难度-中等" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    
     
     <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
-    <category term="位运算" scheme="https://xiaomanzhan.club/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
-    
   </entry>
   
   <entry>
-    <title>PyTorch模型构造常用函数介绍</title>
-    <link href="https://xiaomanzhan.club/2022/04/24/machine-learning/pytorch/pytorch-mo-xing-gou-zao-chang-yong-han-shu-jie-shao/"/>
-    <id>https://xiaomanzhan.club/2022/04/24/machine-learning/pytorch/pytorch-mo-xing-gou-zao-chang-yong-han-shu-jie-shao/</id>
-    <published>2022-04-24T08:43:26.000Z</published>
-    <updated>2022-04-24T15:46:21.984Z</updated>
+    <title>机器学习面经</title>
+    <link href="https://xiaomanzhan.club/2022/05/07/ji-qi-xue-xi-mian-jing/"/>
+    <id>https://xiaomanzhan.club/2022/05/07/ji-qi-xue-xi-mian-jing/</id>
+    <published>2022-05-07T15:16:52.000Z</published>
+    <updated>2022-05-08T15:06:59.029Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;PyTorch模型构造常用函数介绍&quot;&gt;&lt;a href=&quot;#PyTorch模型构造常用函数介绍&quot; class=&quot;headerlink&quot; title=&quot;PyTorch模型构造常用函数介绍&quot;&gt;&lt;/a&gt;PyTorch模型构造常用函数介绍&lt;/h1&gt;&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/PyTorch/"/>
-    
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/tags/PyTorch/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>构建模型基础</title>
-    <link href="https://xiaomanzhan.club/2022/04/23/machine-learning/pytorch/gou-jian-mo-xing-ji-chu/"/>
-    <id>https://xiaomanzhan.club/2022/04/23/machine-learning/pytorch/gou-jian-mo-xing-ji-chu/</id>
-    <published>2022-04-23T15:44:26.000Z</published>
-    <updated>2022-04-24T15:46:21.987Z</updated>
-    
-    
-    <summary type="html">构建模型基础</summary>
-    
-    
-    
-    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/PyTorch/"/>
-    
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/tags/PyTorch/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>实战Kaggle比赛：预测房价</title>
-    <link href="https://xiaomanzhan.club/2022/04/23/machine-learning/shi-zhan-kaggle-bi-sai-yu-ce-fang-jie/"/>
-    <id>https://xiaomanzhan.club/2022/04/23/machine-learning/shi-zhan-kaggle-bi-sai-yu-ce-fang-jie/</id>
-    <published>2022-04-23T15:19:30.000Z</published>
-    <updated>2022-04-24T15:46:21.958Z</updated>
-    
-    
-    <summary type="html">实战Kaggle比赛：预测房价</summary>
-    
-    
-    
-    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="机器学习" scheme="https://xiaomanzhan.club/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="回归模型" scheme="https://xiaomanzhan.club/tags/%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数据预处理方式</title>
-    <link href="https://xiaomanzhan.club/2022/04/23/machine-learning/pytorch/shu-ju-yu-chu-li-fang-shi/"/>
-    <id>https://xiaomanzhan.club/2022/04/23/machine-learning/pytorch/shu-ju-yu-chu-li-fang-shi/</id>
-    <published>2022-04-23T14:40:59.000Z</published>
-    <updated>2022-04-24T15:46:21.986Z</updated>
-    
-    
-    <summary type="html">对数据进行预处理</summary>
-    
-    
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/categories/PyTorch/"/>
-    
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/tags/PyTorch/"/>
-    
-    <category term="数据预处理" scheme="https://xiaomanzhan.club/tags/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>nn常用自构造函数</title>
-    <link href="https://xiaomanzhan.club/2022/04/23/machine-learning/pytorch/nn-chang-yong-zi-gou-zao-han-shu/"/>
-    <id>https://xiaomanzhan.club/2022/04/23/machine-learning/pytorch/nn-chang-yong-zi-gou-zao-han-shu/</id>
-    <published>2022-04-23T14:32:20.000Z</published>
-    <updated>2022-04-24T15:46:21.983Z</updated>
-    
-    
-    <summary type="html">nn常用函数</summary>
-    
-    
-    
-    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/PyTorch/"/>
-    
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/tags/PyTorch/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>查看torch构建的DataSet数据集的读取速度</title>
-    <link href="https://xiaomanzhan.club/2022/04/23/machine-learning/pytorch/xun-lian-mo-xing-shu-ju-du-qu-su-du/"/>
-    <id>https://xiaomanzhan.club/2022/04/23/machine-learning/pytorch/xun-lian-mo-xing-shu-ju-du-qu-su-du/</id>
-    <published>2022-04-23T14:03:05.000Z</published>
-    <updated>2022-04-24T15:46:21.988Z</updated>
-    
-    
-    <summary type="html">查看torch构建的DataSet数据集的读取速度</summary>
-    
-    
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/categories/PyTorch/"/>
-    
-    
-    <category term="PyTorch" scheme="https://xiaomanzhan.club/tags/PyTorch/"/>
-    
-    <category term="数据读取速度" scheme="https://xiaomanzhan.club/tags/%E6%95%B0%E6%8D%AE%E8%AF%BB%E5%8F%96%E9%80%9F%E5%BA%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>auto-encoder</title>
-    <link href="https://xiaomanzhan.club/2022/04/23/auto-encoder/"/>
-    <id>https://xiaomanzhan.club/2022/04/23/auto-encoder/</id>
-    <published>2022-04-23T13:54:00.000Z</published>
-    <updated>2022-04-24T15:46:21.937Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;https://unpkg.com/kity@2.0.4/dist/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+    <summary type="html">&lt;h1&gt;&lt;span id=&quot;机器学习面经&quot;&gt;机器学习面经&lt;/span&gt;&lt;/h1&gt;&lt;h2&gt;&lt;span id=&quot;1-分类问题&quot;&gt;1. 分类问题&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span id=&quot;11-交叉熵公式&quot;&gt;1.1</summary>
         
       
     
@@ -191,35 +59,188 @@
   </entry>
   
   <entry>
-    <title>凸包算法</title>
-    <link href="https://xiaomanzhan.club/2022/04/23/basic-algorithm-template/tu-bao-suan-fa/"/>
-    <id>https://xiaomanzhan.club/2022/04/23/basic-algorithm-template/tu-bao-suan-fa/</id>
-    <published>2022-04-23T09:28:57.000Z</published>
-    <updated>2022-04-24T15:46:21.960Z</updated>
+    <title>深度学习面经</title>
+    <link href="https://xiaomanzhan.club/2022/05/07/shen-du-xue-xi-mian-jing/"/>
+    <id>https://xiaomanzhan.club/2022/05/07/shen-du-xue-xi-mian-jing/</id>
+    <published>2022-05-07T12:30:23.000Z</published>
+    <updated>2022-05-08T15:06:59.032Z</updated>
     
     
-    <summary type="html">凸包算法解题，包含 Jarvis 算法、 Graham 算法、  Andrew 算法</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;span id=&quot;深度学习面经&quot;&gt;深度学习面经&lt;/span&gt;&lt;/h1&gt;&lt;h2&gt;&lt;span id=&quot;1-batchnormalization的作用&quot;&gt;1.</summary>
+        
+      
     
     
     
-    <category term="刷题" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/"/>
-    
-    <category term="算法模板" scheme="https://xiaomanzhan.club/categories/%E5%88%B7%E9%A2%98/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
-    
-    
-    <category term="基础算法模板" scheme="https://xiaomanzhan.club/tags/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/"/>
     
   </entry>
   
   <entry>
-    <title>LeetCode587</title>
-    <link href="https://xiaomanzhan.club/2022/04/23/leetcode/mei-ri-yi-ti/leetcode587/"/>
-    <id>https://xiaomanzhan.club/2022/04/23/leetcode/mei-ri-yi-ti/leetcode587/</id>
-    <published>2022-04-23T09:13:11.000Z</published>
-    <updated>2022-04-24T15:46:21.973Z</updated>
+    <title>Attention Is All You Need</title>
+    <link href="https://xiaomanzhan.club/2022/05/07/paper/attention-is-all-you-need/"/>
+    <id>https://xiaomanzhan.club/2022/05/07/paper/attention-is-all-you-need/</id>
+    <published>2022-05-07T12:26:09.000Z</published>
+    <updated>2022-05-08T15:06:59.033Z</updated>
     
     
-    <summary type="html">每日一题(2022/04/23) 587. 安装栅栏</summary>
+    <summary type="html">Transformer论文逐段精读【论文精读】</summary>
+    
+    
+    
+    <category term="paper" scheme="https://xiaomanzhan.club/categories/paper/"/>
+    
+    
+    <category term="Transformer" scheme="https://xiaomanzhan.club/tags/Transformer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode433</title>
+    <link href="https://xiaomanzhan.club/2022/05/07/leetcode/mei-ri-yi-ti/leetcode433/"/>
+    <id>https://xiaomanzhan.club/2022/05/07/leetcode/mei-ri-yi-ti/leetcode433/</id>
+    <published>2022-05-07T10:50:23.000Z</published>
+    <updated>2022-05-08T15:06:59.041Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/05/07) 433. 最小基因变化</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
+    
+    <category term="难度-中等" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
+    
+    <category term="深度优先搜索" scheme="https://xiaomanzhan.club/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode933</title>
+    <link href="https://xiaomanzhan.club/2022/05/06/leetcode/mei-ri-yi-ti/leetcode933/"/>
+    <id>https://xiaomanzhan.club/2022/05/06/leetcode/mei-ri-yi-ti/leetcode933/</id>
+    <published>2022-05-06T11:10:49.000Z</published>
+    <updated>2022-05-08T15:06:59.050Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/05/06) 933. 最近的请求次数</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
+    
+    <category term="难度-简单" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode713</title>
+    <link href="https://xiaomanzhan.club/2022/05/05/leetcode/mei-ri-yi-ti/leetcode713/"/>
+    <id>https://xiaomanzhan.club/2022/05/05/leetcode/mei-ri-yi-ti/leetcode713/</id>
+    <published>2022-05-05T11:51:27.000Z</published>
+    <updated>2022-05-08T15:06:59.047Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/05/05) 713. 乘积小于 K 的子数组</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
+    
+    <category term="难度-中等" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
+    
+    <category term="双指针" scheme="https://xiaomanzhan.club/tags/%E5%8F%8C%E6%8C%87%E9%92%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode1823</title>
+    <link href="https://xiaomanzhan.club/2022/05/04/leetcode/mei-ri-yi-ti/leetcode1823/"/>
+    <id>https://xiaomanzhan.club/2022/05/04/leetcode/mei-ri-yi-ti/leetcode1823/</id>
+    <published>2022-05-04T11:32:35.000Z</published>
+    <updated>2022-05-08T15:06:59.040Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/05/04) 1823. 找出游戏的获胜者</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
+    
+    <category term="难度-中等" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
+    
+    <category term="约瑟夫环" scheme="https://xiaomanzhan.club/tags/%E7%BA%A6%E7%91%9F%E5%A4%AB%E7%8E%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode937</title>
+    <link href="https://xiaomanzhan.club/2022/05/03/leetcode/mei-ri-yi-ti/leetcode937/"/>
+    <id>https://xiaomanzhan.club/2022/05/03/leetcode/mei-ri-yi-ti/leetcode937/</id>
+    <published>2022-05-03T11:51:18.000Z</published>
+    <updated>2022-05-08T15:06:59.053Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/05/03) 937. 重新排列日志文件</summary>
+    
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
+    
+    <category term="难度-简单" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
+    
+    
+    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
+    
+    <category term="自定义排序" scheme="https://xiaomanzhan.club/tags/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文本预处理</title>
+    <link href="https://xiaomanzhan.club/2022/05/02/machine-learning/xun-huan-shen-jing-wang-luo/2.wen-ben-yu-chu-li/"/>
+    <id>https://xiaomanzhan.club/2022/05/02/machine-learning/xun-huan-shen-jing-wang-luo/2.wen-ben-yu-chu-li/</id>
+    <published>2022-05-02T06:06:52.000Z</published>
+    <updated>2022-05-08T15:06:59.037Z</updated>
+    
+    
+    <summary type="html">文本预处理的实现</summary>
+    
+    
+    
+    <category term="循环神经网络" scheme="https://xiaomanzhan.club/categories/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="循环神经网络" scheme="https://xiaomanzhan.club/tags/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="文本预处理" scheme="https://xiaomanzhan.club/tags/%E6%96%87%E6%9C%AC%E9%A2%84%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode591</title>
+    <link href="https://xiaomanzhan.club/2022/05/02/leetcode/mei-ri-yi-ti/leetcode591/"/>
+    <id>https://xiaomanzhan.club/2022/05/02/leetcode/mei-ri-yi-ti/leetcode591/</id>
+    <published>2022-05-02T02:12:04.000Z</published>
+    <updated>2022-05-08T15:06:59.046Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/05/01) 591. 标签验证器</summary>
     
     
     
@@ -230,19 +251,78 @@
     
     <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
-    <category term="凸包算法" scheme="https://xiaomanzhan.club/tags/%E5%87%B8%E5%8C%85%E7%AE%97%E6%B3%95/"/>
+  </entry>
+  
+  <entry>
+    <title>全局平均池化</title>
+    <link href="https://xiaomanzhan.club/2022/05/02/machine-learning/juan-ji-shen-jing-wang-luo/quan-ju-ping-jun-chi-hua/"/>
+    <id>https://xiaomanzhan.club/2022/05/02/machine-learning/juan-ji-shen-jing-wang-luo/quan-ju-ping-jun-chi-hua/</id>
+    <published>2022-05-01T16:53:39.000Z</published>
+    <updated>2022-05-01T16:59:18.273Z</updated>
+    
+    
+    <summary type="html">全局平均池化 global average pooling 实现 和作用优点解析</summary>
+    
+    
+    
+    <category term="深度学习" scheme="https://xiaomanzhan.club/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="深度学习" scheme="https://xiaomanzhan.club/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
-    <title>LeetCode396</title>
-    <link href="https://xiaomanzhan.club/2022/04/22/leetcode/mei-ri-yi-ti/leetcode396/"/>
-    <id>https://xiaomanzhan.club/2022/04/22/leetcode/mei-ri-yi-ti/leetcode396/</id>
-    <published>2022-04-22T03:49:52.000Z</published>
-    <updated>2022-04-24T15:46:21.967Z</updated>
+    <title>pandas 常见函数</title>
+    <link href="https://xiaomanzhan.club/2022/05/02/python-ji-chu-xue-xi-san-jian-tao/pandas-chang-jian-han-shu/"/>
+    <id>https://xiaomanzhan.club/2022/05/02/python-ji-chu-xue-xi-san-jian-tao/pandas-chang-jian-han-shu/</id>
+    <published>2022-05-01T16:08:38.000Z</published>
+    <updated>2022-05-01T16:59:18.272Z</updated>
     
     
-    <summary type="html">每日一题(2022/04/22) 396. 旋转函数</summary>
+    <summary type="html">pandas 常见函数</summary>
+    
+    
+    
+    <category term="python" scheme="https://xiaomanzhan.club/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://xiaomanzhan.club/tags/python/"/>
+    
+    <category term="pandas" scheme="https://xiaomanzhan.club/tags/pandas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>numpy 常见函数</title>
+    <link href="https://xiaomanzhan.club/2022/05/02/python-ji-chu-xue-xi-san-jian-tao/numpy-chang-jian-han-shu/"/>
+    <id>https://xiaomanzhan.club/2022/05/02/python-ji-chu-xue-xi-san-jian-tao/numpy-chang-jian-han-shu/</id>
+    <published>2022-05-01T16:08:38.000Z</published>
+    <updated>2022-05-01T16:59:18.271Z</updated>
+    
+    
+    <summary type="html">numpy 常见函数</summary>
+    
+    
+    
+    <category term="python" scheme="https://xiaomanzhan.club/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://xiaomanzhan.club/tags/python/"/>
+    
+    <category term="numpy" scheme="https://xiaomanzhan.club/tags/numpy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode1305</title>
+    <link href="https://xiaomanzhan.club/2022/05/01/leetcode/mei-ri-yi-ti/leetcode1305/"/>
+    <id>https://xiaomanzhan.club/2022/05/01/leetcode/mei-ri-yi-ti/leetcode1305/</id>
+    <published>2022-05-01T15:40:31.000Z</published>
+    <updated>2022-05-06T12:18:29.149Z</updated>
+    
+    
+    <summary type="html">每日一题(2022/04/30) 1305. 两棵二叉搜索树中的所有元素</summary>
     
     
     
@@ -253,201 +333,121 @@
     
     <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
     
-    <category term="找规律" scheme="https://xiaomanzhan.club/tags/%E6%89%BE%E8%A7%84%E5%BE%8B/"/>
+    <category term="中序遍历" scheme="https://xiaomanzhan.club/tags/%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86/"/>
     
   </entry>
   
   <entry>
-    <title>LeetCode824</title>
-    <link href="https://xiaomanzhan.club/2022/04/21/leetcode/mei-ri-yi-ti/leetcode824/"/>
-    <id>https://xiaomanzhan.club/2022/04/21/leetcode/mei-ri-yi-ti/leetcode824/</id>
-    <published>2022-04-21T11:41:27.000Z</published>
-    <updated>2022-04-24T15:46:21.975Z</updated>
+    <title>tensorboardX</title>
+    <link href="https://xiaomanzhan.club/2022/05/01/machine-learning/tensorboardx/"/>
+    <id>https://xiaomanzhan.club/2022/05/01/machine-learning/tensorboardx/</id>
+    <published>2022-05-01T13:40:05.000Z</published>
+    <updated>2022-05-01T16:59:18.268Z</updated>
     
     
-    <summary type="html">每日一题(2022/04/21) 824. 山羊拉丁文</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1&gt;&lt;span id=&quot;tensorboardx可视化&quot;&gt;tensorboardX可视化&lt;/span&gt;&lt;/h1&gt;&lt;h2&gt;&lt;span id=&quot;1-安装相关的库&quot;&gt;1. 安装相关的库&lt;/span&gt;&lt;/h2&gt;&lt;figure</summary>
+        
+      
     
     
     
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="深度学习可视化" scheme="https://xiaomanzhan.club/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
     
   </entry>
   
   <entry>
-    <title>LeetCode388</title>
-    <link href="https://xiaomanzhan.club/2022/04/20/leetcode/mei-ri-yi-ti/leetcode388/"/>
-    <id>https://xiaomanzhan.club/2022/04/20/leetcode/mei-ri-yi-ti/leetcode388/</id>
-    <published>2022-04-20T11:47:27.000Z</published>
-    <updated>2022-04-24T15:46:21.963Z</updated>
+    <title>python 基础函数</title>
+    <link href="https://xiaomanzhan.club/2022/05/01/python-ji-chu-xue-xi-san-jian-tao/python-nei-zhi-han-shu/"/>
+    <id>https://xiaomanzhan.club/2022/05/01/python-ji-chu-xue-xi-san-jian-tao/python-nei-zhi-han-shu/</id>
+    <published>2022-05-01T07:14:59.000Z</published>
+    <updated>2022-05-01T17:06:36.959Z</updated>
     
     
-    <summary type="html">每日一题(2022/04/20) 388. 文件的最长绝对路径</summary>
+    <summary type="html">python 基础函数</summary>
     
     
     
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
-    
-    <category term="难度-中等" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    <category term="python" scheme="https://xiaomanzhan.club/categories/python/"/>
     
     
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
-    
-    <category term="深度优先搜索" scheme="https://xiaomanzhan.club/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    <category term="python" scheme="https://xiaomanzhan.club/tags/python/"/>
     
   </entry>
   
   <entry>
-    <title>LeetCode821</title>
-    <link href="https://xiaomanzhan.club/2022/04/19/leetcode/mei-ri-yi-ti/leetcode821/"/>
-    <id>https://xiaomanzhan.club/2022/04/19/leetcode/mei-ri-yi-ti/leetcode821/</id>
-    <published>2022-04-19T11:54:44.000Z</published>
-    <updated>2022-04-24T15:46:21.978Z</updated>
+    <title>Softmax回归+损失函数</title>
+    <link href="https://xiaomanzhan.club/2022/04/30/machine-learning/softmax-hui-gui-and-sun-shi-han-shu/"/>
+    <id>https://xiaomanzhan.club/2022/04/30/machine-learning/softmax-hui-gui-and-sun-shi-han-shu/</id>
+    <published>2022-04-30T11:20:40.000Z</published>
+    <updated>2022-05-01T03:27:52.654Z</updated>
     
     
-    <summary type="html">每日一题(2022/04/19) 821. 字符的最短距离</summary>
-    
-    
-    
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
-    
-    <category term="难度-简单" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
-    
-    
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode386</title>
-    <link href="https://xiaomanzhan.club/2022/04/18/leetcode/mei-ri-yi-ti/leetcode386/"/>
-    <id>https://xiaomanzhan.club/2022/04/18/leetcode/mei-ri-yi-ti/leetcode386/</id>
-    <published>2022-04-18T13:20:20.000Z</published>
-    <updated>2022-04-24T15:46:21.964Z</updated>
-    
-    
-    <summary type="html">每日一题(2022/04/18) 386. 字典序排数</summary>
+    <summary type="html">Softmax回归+损失函数</summary>
     
     
     
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
-    
-    <category term="难度-中等" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E4%B8%AD%E7%AD%89/"/>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="深度优先搜索" scheme="https://xiaomanzhan.club/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/"/>
+    <category term="Softmax" scheme="https://xiaomanzhan.club/tags/Softmax/"/>
     
   </entry>
   
   <entry>
-    <title>Transformer</title>
-    <link href="https://xiaomanzhan.club/2022/04/18/transformer/"/>
-    <id>https://xiaomanzhan.club/2022/04/18/transformer/</id>
-    <published>2022-04-18T06:47:39.000Z</published>
-    <updated>2022-04-24T15:46:21.934Z</updated>
+    <title>激活函数+数据稳定性</title>
+    <link href="https://xiaomanzhan.club/2022/04/30/machine-learning/shu-ju-wen-ding-xing-and-ji-huo-han-shu/"/>
+    <id>https://xiaomanzhan.club/2022/04/30/machine-learning/shu-ju-wen-ding-xing-and-ji-huo-han-shu/</id>
+    <published>2022-04-30T08:26:20.000Z</published>
+    <updated>2022-05-07T13:43:22.412Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Transformer&quot;&gt;&lt;a href=&quot;#Transformer&quot; class=&quot;headerlink&quot; title=&quot;Transformer&quot;&gt;&lt;/a&gt;Transformer&lt;/h1&gt;&lt;h2 id=&quot;1-Transformer架构&quot;&gt;&lt;a</summary>
-        
-      
+    <summary type="html">基于数据稳定性对深度学习进行理解，并对激活函数进行解释</summary>
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode819</title>
-    <link href="https://xiaomanzhan.club/2022/04/17/leetcode/mei-ri-yi-ti/leetcode819/"/>
-    <id>https://xiaomanzhan.club/2022/04/17/leetcode/mei-ri-yi-ti/leetcode819/</id>
-    <published>2022-04-17T14:43:12.000Z</published>
-    <updated>2022-04-24T15:46:21.979Z</updated>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <summary type="html">每日一题(2022/04/17) 819. 最常见的单词</summary>
+    <category term="机器学习" scheme="https://xiaomanzhan.club/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
+    <category term="数据稳定性" scheme="https://xiaomanzhan.club/tags/%E6%95%B0%E6%8D%AE%E7%A8%B3%E5%AE%9A%E6%80%A7/"/>
     
-    
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/categories/LeetCode/"/>
-    
-    <category term="难度-简单" scheme="https://xiaomanzhan.club/categories/LeetCode/%E9%9A%BE%E5%BA%A6-%E7%AE%80%E5%8D%95/"/>
-    
-    
-    <category term="LeetCode" scheme="https://xiaomanzhan.club/tags/LeetCode/"/>
-    
-    <category term="哈希表" scheme="https://xiaomanzhan.club/tags/%E5%93%88%E5%B8%8C%E8%A1%A8/"/>
+    <category term="激活函数" scheme="https://xiaomanzhan.club/tags/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0/"/>
     
   </entry>
   
   <entry>
-    <title>自注意力</title>
-    <link href="https://xiaomanzhan.club/2022/04/17/zi-zhu-yi-li/"/>
-    <id>https://xiaomanzhan.club/2022/04/17/zi-zhu-yi-li/</id>
-    <published>2022-04-17T12:36:51.000Z</published>
-    <updated>2022-04-24T15:46:21.951Z</updated>
+    <title>数据预处理-数据归一化</title>
+    <link href="https://xiaomanzhan.club/2022/04/30/machine-learning/shu-ju-yu-chu-li-shu-ju-gui-yi-hua/"/>
+    <id>https://xiaomanzhan.club/2022/04/30/machine-learning/shu-ju-yu-chu-li-shu-ju-gui-yi-hua/</id>
+    <published>2022-04-30T08:03:50.000Z</published>
+    <updated>2022-04-30T15:33:46.461Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;自注意力&quot;&gt;&lt;a href=&quot;#自注意力&quot; class=&quot;headerlink&quot; title=&quot;自注意力&quot;&gt;&lt;/a&gt;自注意力&lt;/h1&gt;&lt;h2 id=&quot;1-自注意力&quot;&gt;&lt;a href=&quot;#1-自注意力&quot; class=&quot;headerlink&quot; title=&quot;1.</summary>
-        
-      
+    <summary type="html">探讨在机器学习建模之前进行数据归一化的原因</summary>
     
     
     
+    <category term="机器学习" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
-  </entry>
-  
-  <entry>
-    <title>使用注意力机制的seq2seq</title>
-    <link href="https://xiaomanzhan.club/2022/04/17/shi-yong-zhu-yi-li-ji-zhi-de-seq2seq/"/>
-    <id>https://xiaomanzhan.club/2022/04/17/shi-yong-zhu-yi-li-ji-zhi-de-seq2seq/</id>
-    <published>2022-04-17T09:11:16.000Z</published>
-    <updated>2022-04-24T15:46:21.942Z</updated>
+    <category term="数据预处理" scheme="https://xiaomanzhan.club/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86/"/>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;使用注意力机制的seq2seq&quot;&gt;&lt;a href=&quot;#使用注意力机制的seq2seq&quot; class=&quot;headerlink&quot; title=&quot;使用注意力机制的seq2seq&quot;&gt;&lt;/a&gt;使用注意力机制的seq2seq&lt;/h1&gt;&lt;h2 id=&quot;1-动机&quot;&gt;&lt;a</summary>
-        
-      
+    <category term="机器学习" scheme="https://xiaomanzhan.club/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>注意力机制</title>
-    <link href="https://xiaomanzhan.club/2022/04/17/zhu-yi-li-ji-zhi/"/>
-    <id>https://xiaomanzhan.club/2022/04/17/zhu-yi-li-ji-zhi/</id>
-    <published>2022-04-17T07:43:20.000Z</published>
-    <updated>2022-04-24T15:46:21.945Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;注意力机制&quot;&gt;&lt;a href=&quot;#注意力机制&quot; class=&quot;headerlink&quot; title=&quot;注意力机制&quot;&gt;&lt;/a&gt;注意力机制&lt;/h1&gt;&lt;p&gt;为了在复杂的环境下关注值得注意的点，提出注意力机制&lt;/p&gt;
-&lt;h2 id=&quot;1-注意力机制&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
+    <category term="归一化" scheme="https://xiaomanzhan.club/tags/%E5%BD%92%E4%B8%80%E5%8C%96/"/>
     
   </entry>
   
